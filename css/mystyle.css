@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: grey;
+}
+
+#main-container {
+  width: 800px;
+  background-color: white;
+  margin: auto;
+  padding: 15px;
+}
+
+#photo-bio {
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+#photo-bio img {
+  width: 100%;
+}
+
+#about-me {
+  float: left;
+  width: 550px;
+}
+
+#about-me p {
+  font-size: 21px;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+
+.clear-fix {
+  clear: both;
+}
+
+#my-activities {
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  background-color: lightgray;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.item-activity {
+  width: 750px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.item-activity img {
+  width: 100%;
+}
+
+.item-activity p {
+  font-size: 21px;
+  text-align: justify;
+}
